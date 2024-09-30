@@ -37,15 +37,18 @@ p {
 }
 
 .footer {
-  position: fixed;
+  position: absolute;
   background-color: #2e2f34;
   width: 60%;
   height: 60px;
+  margin-left: 20%;
+  margin-right: 20%;
   bottom: 0;
+}
+.p2 {
   color: #ffffff;
   text-align: center;
 }
-
 ul {
   width: 60%;
   list-style-type: none;
